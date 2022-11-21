@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faith-Bowale
 - 👀 I’m interested in cloud computing and devops engineering
 - 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate with developers,devops engingeers & solution architects
+- 💞️ I’m looking to collaborate with developers,devops engineers,cloud engineers & solution architects
 - 📫 How to reach me faithonukaogu@gmail.com
 
 <!---
